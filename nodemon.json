@@ -1,0 +1,10 @@
+{
+    "env":{
+        "PORT" : "4000",
+        "ATLAS_CLUSTER_PW":"sample",
+        "JWT_KEY" : "beautyone",
+        "CLOUD_NAME": "dho6jmmgt",
+        "CLOUD_API_KEY":"685333414635353",
+        "CLOUD_API_SECRET": "K7_eRg7hxZMMeAGxsYtl59Hpjzw"
+    }
+}
